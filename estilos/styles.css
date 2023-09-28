@@ -5,7 +5,14 @@ body{
 }
 
 .contenedor{
-    width: 500px;
+    width: 1200px;
     border: solid;
 
+}
+
+.cabezera1{
+    color: white;
+    text-align: center;
+    background: black;
+    padding: 1rem;
 }
